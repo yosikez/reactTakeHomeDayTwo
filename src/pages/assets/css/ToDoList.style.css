@@ -1,0 +1,23 @@
+html {
+    margin: 10px;
+    background-color: #282c34;
+}
+
+p {
+    font-size: 30px;
+}
+
+.ant-input:focus {
+    border-color: #FDAD54;
+    outline: 0;
+    -webkit-box-shadow: 0 0 0 2px rgba(255, 166, 0, 0.815);
+    box-shadow: 0 0 0 2px rgb(255, 166, 0);
+}
+
+.ant-input:hover {
+    border-color: #FDAD54;
+}
+
+.ant-btn:hover {
+    border-color: #FDAD54;
+}
